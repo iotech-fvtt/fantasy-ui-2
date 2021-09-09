@@ -18,12 +18,12 @@
     overflow: hidden;
     margin: 0;
     /*border: 10px solid transparent;
-    border-image-source: url(/modules/fantasy-ui-2/img/newbox.png);
+    border-image-source: url(http://beratnas.com/fui/img/newbox.png);
     border-image-slice: 10 fill;*/
     background-position: center !important;
     background-size: 360px 100%!important;
     background-repeat: no-repeat;
-    background-image: url(/modules/fantasy-ui-2/img/newbox.png);
+    background-image: url(http://beratnas.com/fui/img/newbox.png);
 }
 
 /* Push things down below the tabs*/
@@ -75,7 +75,7 @@
     height: 410px !important;
     padding-left: 5px;
     border: 15px solid transparent;
-    border-image-source: url(/modules/fantasy-ui-2/img/newbox.png);
+    border-image-source: url(http://beratnas.com/fui/img/newbox.png);
     border-image-slice: 35 fill;
     background-position: center !important;
     background-size: 100% 100%!important;
@@ -90,7 +90,7 @@ i.fa-caret-right::before{
 }
 
 .fa-caret-right{
-    background-image: url(/modules/fantasy-ui-2/img/inout.png) !important;
+    background-image: url(http://beratnas.com/fui/img/inout.png) !important;
     width: 100%;
     height: 100%;
     display: inline-block !important;
@@ -107,7 +107,7 @@ i.fa-caret-left::before{
 }
 
 .fa-caret-left{
-    background-image: url(/modules/fantasy-ui-2/img/inout.png) !important;
+    background-image: url(http://beratnas.com/fui/img/inout.png) !important;
     width: 100%;
     height: 100%;
     display: inline-block !important;
@@ -124,7 +124,7 @@ i.fa-caret-left::before{
 /* #region  Chat Tab */
 #sidebar #sidebar-tabs i.fa-comments {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/speechbubble.png) !important;
+    background-image: url(http://beratnas.com/fui/img/speechbubble.png) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -141,7 +141,7 @@ i.fa-caret-left::before{
 /* #region  Combat Tab */
 #sidebar #sidebar-tabs i.fa-fist-raised {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/Tex_badge_33.png) !important;
+    background-image: url(http://beratnas.com/fui/img/Tex_badge_33.png) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -158,7 +158,7 @@ i.fa-caret-left::before{
 /* #region  Scenes Tab */
 #sidebar #sidebar-tabs i.fa-map {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/pirates_04_t.PNG) !important;
+    background-image: url(http://beratnas.com/fui/img/pirates_04_t.PNG) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -175,7 +175,7 @@ i.fa-caret-left::before{
 /* #region  Actors Tab */
 #sidebar #sidebar-tabs i.fa-users {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/SGI_91.png) !important;
+    background-image: url(http://beratnas.com/fui/img/SGI_91.png) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -192,7 +192,7 @@ i.fa-caret-left::before{
 /* #region  Items Tab */
 #sidebar #sidebar-tabs i.fa-suitcase {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/chest_t_03.png) !important;
+    background-image: url(http://beratnas.com/fui/img/chest_t_03.png) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -209,7 +209,7 @@ i.fa-caret-left::before{
 /* #region  Journal Tab */
 #sidebar #sidebar-tabs i.fa-book-open {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/ScrollsAndBooks_102_t.png) !important;
+    background-image: url(http://beratnas.com/fui/img/ScrollsAndBooks_102_t.png) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -226,7 +226,7 @@ i.fa-caret-left::before{
 /* #region  Rolltable Tab */
 #sidebar #sidebar-tabs i.fa-th-list {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/TabletopBadges_50.png) !important;
+    background-image: url(http://beratnas.com/fui/img/TabletopBadges_50.png) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -243,7 +243,7 @@ i.fa-caret-left::before{
 /* #region  Music Tab */
 #sidebar #sidebar-tabs i.fa-music {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/mi_t_03.png) !important;
+    background-image: url(http://beratnas.com/fui/img/mi_t_03.png) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -260,7 +260,7 @@ i.fa-caret-left::before{
 /* #region  Compendium Tab */
 #sidebar #sidebar-tabs i.fa-atlas {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/ScrollsAndBooks_24_t.png) !important;
+    background-image: url(http://beratnas.com/fui/img/ScrollsAndBooks_24_t.png) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -277,7 +277,7 @@ i.fa-caret-left::before{
 /* #region  Setting tab */
 #sidebar #sidebar-tabs i.fa-cogs {
     content: "";
-    background-image: url(/modules/fantasy-ui-2/img/en_craft_35.png) !important;
+    background-image: url(http://beratnas.com/fui/img/en_craft_35.png) !important;
     width: 100% !important;
     height: 100% !important;
     display: inline-block !important;
@@ -299,7 +299,7 @@ i.fa-caret-left::before{
 
 /* #region Chat Tab*/
 .message{
-    background-image: url(/modules/fantasy-ui-2/img/parchment-smooth.png) !important;
+    background-image: url(http://beratnas.com/fui/img/parchment-smooth.png) !important;
 }
 .message-sender {
     color: darkred;
@@ -308,7 +308,7 @@ i.fa-caret-left::before{
     text-decoration: underline;
 }
 /* #chat-message{
-    background-image: url(/modules/fantasy-ui-2/img/parchment-smooth.png) !important;
+    background-image: url(http://beratnas.com/fui/img/parchment-smooth.png) !important;
 } */
 
 .polyglot-lang-select select {
@@ -320,12 +320,12 @@ i.fa-caret-left::before{
     height: 24px;
     top: 7px;
     padding-top: 0px;
-    background: url(/modules/fantasy-ui-2/img/parchment-smooth.png) repeat !important;
+    background: url(http://beratnas.com/fui/img/parchment-smooth.png) repeat !important;
     background-position-x: 0%;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/modules/fantasy-ui-2/img/chat-controls-border.png) 4 repeat;
+    border-image: url(http://beratnas.com/fui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
@@ -349,12 +349,12 @@ i.fa-caret-left::before{
     height: 24px;
     top: 7px;
     padding-top: 3px;
-    background: url(/modules/fantasy-ui-2/img/parchment-smooth.png) repeat;
+    background: url(http://beratnas.com/fui/img/parchment-smooth.png) repeat;
     background-position-x: 0%;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/modules/fantasy-ui-2/img/chat-controls-border.png) 4 repeat;
+    border-image: url(http://beratnas.com/fui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
@@ -388,16 +388,16 @@ i.fa-caret-left::before{
 }
 
 #chat-log .message.whisper {
-    background-image: url(/modules/fantasy-ui-2/img/parchment-hidden2.png) !important;
+    background-image: url(http://beratnas.com/fui/img/parchment-hidden2.png) !important;
     
 }
 
 /* #chat-log .message.whisper .message-header {
-    background-image: url(/modules/fantasy-ui-2/img/parchment-hidden2.png) !important;
+    background-image: url(http://beratnas.com/fui/img/parchment-hidden2.png) !important;
 } */
 
 #chat-log .message.whisper .message-content {
-    background-image: url(/modules/fantasy-ui-2/img/parchment-hidden2.png)  ;
+    background-image: url(http://beratnas.com/fui/img/parchment-hidden2.png)  ;
     /*background-color: seashell !important;*/
 }
 
@@ -410,7 +410,7 @@ i.fa-caret-left::before{
 
 
 #chat-log .message.blind .message-header .message-metadata::before{
-    background-image: url(/modules/fantasy-ui-2/img/parchment-hidden2.png) !important;
+    background-image: url(http://beratnas.com/fui/img/parchment-hidden2.png) !important;
     color: darkred;
     content: " (Blind Roll) " !important;
     float: left;
@@ -421,7 +421,7 @@ i.fa-caret-left::before{
 
 /* #region  Combat Tracker */
 #combat-controls .combat-control{
-    background-image: url(/modules/fantasy-ui-2/img/buttonredlight.png);
+    background-image: url(http://beratnas.com/fui/img/buttonredlight.png);
     text-align: center;
     background-position: center !important;
     background-size: 260px 100%!important;
@@ -438,12 +438,12 @@ i.fa-caret-left::before{
     top: 7px;
     padding-top: 20px;
     padding-left: 30px;
-    background: url(/modules/fantasy-ui-2/img/buttonredlight.png) no-repeat;
+    background: url(http://beratnas.com/fui/img/buttonredlight.png) no-repeat;
     background-position-x: 0%;
     background-size: 100% 55px;
     background-position-y: 0%;
     background-position: initial;
-    border-image: url(/modules/fantasy-ui-2/img/chat-controls-border.png) 4 repeat;
+    border-image: url(http://beratnas.com/fui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     text-shadow: 2px 2px 4px #000000;
@@ -456,7 +456,7 @@ i.fa-caret-left::before{
 
 /* #region  Settings Tab Contents */
 #settings button {
-    background-image: url(/modules/fantasy-ui-2/img/buttonbluelight2.png);
+    background-image: url(http://beratnas.com/fui/img/buttonbluelight2.png);
     background-size: cover;
     background-repeat: no-repeat;
     border: 1px solid black;
@@ -485,19 +485,19 @@ i.fa-caret-left::before{
     height: 24px;
     top: 7px;
     padding-top: 3px;
-    background: url(/modules/fantasy-ui-2/img/parchment-smooth.png) repeat;
+    background: url(http://beratnas.com/fui/img/parchment-smooth.png) repeat;
     background-position-x: 0%;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;    
-    border-image: url(/modules/fantasy-ui-2/img/chat-controls-border.png) 4 repeat;
+    border-image: url(http://beratnas.com/fui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
 
 }
 .sidebar-tab .directory-header button {
-    background-image: url(/modules/fantasy-ui-2/img/buttongreenlight.png);
+    background-image: url(http://beratnas.com/fui/img/buttongreenlight.png);
     text-align: center;
     background-position: center !important;
     background-size: 100% 100% !important;
@@ -519,7 +519,7 @@ i.fa-caret-left::before{
 }
 
 .sidebar-tab .directory-footer button{
-    background-image: url(/modules/fantasy-ui-2/img/buttongreenlight.png);
+    background-image: url(http://beratnas.com/fui/img/buttongreenlight.png);
     text-align: center;
     background-position: center !important;
     background-size: 100% 100% !important;
@@ -533,7 +533,7 @@ i.fa-caret-left::before{
 
 /* #region Folders as buttons */
 .sidebar-tab .folder .folder-header {
-    background-image: url(/modules/fantasy-ui-2/img/buttonlight3.png)  !important;
+    background-image: url(http://beratnas.com/fui/img/buttonlight3.png)  !important;
     text-align: left !important;
     background-position: center !important;
     background-size: 100% 55px!important;
