@@ -1,0 +1,31 @@
+{
+  "name": "fantasy-ui-2",
+  "title": "Fantasy UI 2",
+  "description": "An updated fantasy-flavored UI for FVTT. Uses icons from Rexard.",
+  "author": "iotech",
+  "authors": [],
+  "url": "https://github.com/iotech-fvtt/fantasy-ui",
+  "flags": {},
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [
+    "fantasyui.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "fantasyui.css"
+  ],
+  "languages": [],
+  "packs": [],
+  "system": [
+    "dnd5e"
+  ],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
